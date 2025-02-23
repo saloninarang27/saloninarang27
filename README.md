@@ -50,8 +50,11 @@
 
 ## 📫 **Let's Connect!**  
 💌 **Email:** [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com)  
+
 💼 **LinkedIn:** https://www.linkedin.com/in/saloni-narang-a77b50217/ 
+
 🌎 **Portfolio:** https://saloninarang.netlify.app/  
+
 💻 **GitHub:** [saloninarang27](https://github.com/saloninarang27)  
 
 ---
