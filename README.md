@@ -50,9 +50,10 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloniarang27&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloniarang27&layout=compact&theme=radical)  
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloninarang27&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloninarang27&layout=compact&theme=radical)  
+
 
 ---
 
