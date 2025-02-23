@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Saloni!  
 🚀 **"I am a passionate developer who loves turning ideas into scalable and impactful solutions."** 
 
-📍 **Currently Residing At** Delhi 
+📍 **Currently residing at:** Delhi 
 
 📧 **Connect with me:** saloniarang31@gmail.com  
 
