@@ -39,6 +39,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saloninarang27&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=onedark)
 
+---
+## 🔥 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
 
 
