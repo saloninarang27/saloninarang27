@@ -48,10 +48,10 @@
 ---
 
 ## 📫 **Let's Connect!**  
-💌 **Email:** [saloniarang318@gmail.com](mailto:saloniarang318@gmail.com)  
+💌 **Email:** [saloniarang318@gmail.com](mailto:saloniarang31@gmail.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/saloni-narang-a77b50217/]  
 🌎 **Portfolio:** [https://saloninarang.netlify.app/]  
-💻 **GitHub:** [saloniarang27](https://github.com/saloniarang27)  
+💻 **GitHub:** [saloninarang27](https://github.com/saloninarang27)  
 
 ---
 
