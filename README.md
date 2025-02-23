@@ -8,7 +8,7 @@
 
 🌐 **Know more about me:** https://saloninarang.netlify.app/ 
 
-🔗 **My Digital Playground:** [saloniarang27](https://github.com/saloniarang27)  
+🔗 **My Digital Playground:** [saloninarang27](https://github.com/saloninarang27)  
 
 🚀 **Actively Seeking:** Exciting internship opportunities where I can apply my skills and grow as a developer!
 
