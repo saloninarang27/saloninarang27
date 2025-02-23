@@ -40,15 +40,6 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=onedark)
 
 ---
-## 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
-
-
----
 
 ## 🎯 **Achievements & Leadership**  
 🏆 **Ranked 1st** in University CSE Department across semesters  
@@ -58,7 +49,7 @@
 ---
 
 ## 📫 **Let's Connect!**  
-💌 **Email:** [saloniarang318@gmail.com](mailto:saloniarang31@gmail.com)  
+💌 **Email:** [saloniarang31@gmail.com](mailto:saloniarang31@gmail.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/saloni-narang-a77b50217/]  
 🌎 **Portfolio:** [https://saloninarang.netlify.app/]  
 💻 **GitHub:** [saloninarang27](https://github.com/saloninarang27)  
