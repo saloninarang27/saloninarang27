@@ -1,11 +1,16 @@
 
 # 👋 Hi, I'm Saloni!  
-🚀 Software Developer | Machine Learning Enthusiast | Open-Source Contributor  
+🚀 **"I am a passionate developer who loves turning ideas into scalable and impactful solutions."** 
 
-📍 **Location:** Delhi 
-📧 **Email:** saloniarang318@gmail.com  
-🌐 **Portfolio:** https://saloninarang.netlify.app/ 
-🔗 **GitHub:** [saloniarang27](https://github.com/saloniarang27)  
+📍 **Currently Residing At** Delhi 
+
+📧 **Connect with me:** saloniarang31@gmail.com  
+
+🌐 **Know more about me:** https://saloninarang.netlify.app/ 
+
+🔗 **My Digital Playground:** [saloniarang27](https://github.com/saloniarang27)  
+
+🚀 **Actively Seeking:** Exciting internship opportunities where I can apply my skills and grow as a developer!
 
 ---
 
@@ -16,37 +21,15 @@
 - 💻 Passionate about **Full-Stack Development, Machine Learning**
 - 💬 Ask me about **React, Java, Python, and Machine Learning**  
 - 🏆 Solved **400+ DSA problems** on LeetCode  
-- 🌱 Currently exploring **Cloud Computing**  
+- 🌱 Currently exploring **Cloud Computing**
+- 🎯 On the lookout for an exciting internship where I can innovate, collaborate, and make an impact with my skills! 🚀
 
 ---
 
 ## 🏆 **Technical Skills**  
 💻 **Languages:** Java, Python, JavaScript, SQL  
 🛠 **Frameworks & Libraries:** Spring Boot, React.js, Flutter, Tailwind CSS  
-☁️ **Cloud & Databases:** AWS, Firebase, MySQL  
-
----
-
-## 🚀 **Projects**  
-### 📚 **[BookBuddy](https://github.com/saloninarang27/BookBuddy)** | `React.js | Spring Boot`  
-- 📖 Developed a **library management system** with a **responsive UI**  
-- 🏷 Used **Firebase** for real-time book tracking & user notifications  
-- 🔔 Implemented **return alerts** and seat allocation system  
-
-### 🎓 **[PlaceZen](https://github.com/saloninarang27/placezen)** | `Spring Boot | React.js | MySQL`  
-- 🔗 Built a **full-stack placement portal** for students & TPO  
-- 📊 Leveraged **AWS cloud** to store & manage student placement data  
-- 🏢 **Improved student employability** through streamlined recruitment  
-
-### 🏏 **[IPL Dashboard](https://github.com/saloninarang27/ipl)** | `Java | React.js`  
-- ⚡ Designed an **interactive dashboard** with REST APIs  
-- 📈 **Fetched & displayed** accurate match statistics  
-- 🔍 Provided **in-depth player analysis** for IPL 2023 season  
-
-### 🤖 **[Campus Placement Predictor](https://github.com/saloninarang27/placement-prediction)** | `Machine Learning | Python`  
-- 🔮 **Predicted student placements** with **90% accuracy**  
-- 📊 Used **Tkinter & Jupyter Notebook** for data visualization  
-- 🔍 Analyzed **placement trends** to help students prepare better  
+☁️ **Cloud & Databases:** AWS, Firebase, MySQL   
 
 ---
 
