@@ -34,9 +34,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloninarang27&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloninarang27&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saloninarang27&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloninarang27&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloninarang27&layout=compact&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saloninarang27&theme=default)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=onedark)
 
 ---
