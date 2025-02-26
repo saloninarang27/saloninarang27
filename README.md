@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Saloni!  
-**A Final Year Computer Engineering student at IK Gujral Punjab Technical University**
+**A Final Year Computer Science Engineering student at IK Gujral Punjab Technical University**
 ---
 🚀 **"I am a passionate developer who loves turning ideas into scalable and impactful solutions."** 
 
