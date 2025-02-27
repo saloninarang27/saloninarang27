@@ -6,7 +6,7 @@
 
 📍 **Currently residing at:** Delhi 
 
-📧 **Connect with me:** saloniarang31@gmail.com  
+📧 **Connect with me:** saloninarang31@gmail.com  
 
 🌐 **Know more about me:** https://saloninarang.netlify.app/ 
 
