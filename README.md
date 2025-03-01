@@ -24,7 +24,7 @@
 - 💬 Ask me about **React, Java, Python, and Machine Learning**  
 - 🏆 Solved **400+ DSA problems** on LeetCode  
 - 🌱 Currently exploring **Cloud Computing**
-- 🎯 On the lookout for an exciting internship where I can innovate, collaborate, and make an impact with my skills! 🚀
+- 🎯 On the lookout for an exciting internship where I can innovate, collaborate, and make an impact with my skills! 
 
 ---
 
