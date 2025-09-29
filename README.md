@@ -28,11 +28,6 @@
 
 ---
 
-## 🏆 **Technical Skills**  
-💻 **Languages:** Java, Python, JavaScript, SQL  
-🛠 **Frameworks & Libraries:** Spring Boot, React.js, Flutter, Tailwind CSS, Machine Learning  
-☁️ **Cloud & Databases:** AWS, Firebase, MySQL   
----
 ## 🔧 Languages and Tools  
 
 <p align="left">  
