@@ -15,6 +15,15 @@
 🚀 **Actively Seeking:** Exciting internship opportunities where I can apply my skills and grow as a developer!
 
 ---
+## ☕ Support
+
+If you like my work, you can support me here:
+
+<a href="https://buymeacoffee.com/saloninarang" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+---
 
 ## 💡 About Me  
 - 🔭 I’m currently working on **Full-Stack Web Development & Machine Learning**
