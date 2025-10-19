@@ -1,21 +1,14 @@
-<div align="center">
-
-🚀 "Engineering scalable solutions and pioneering innovation through code"
-</div>
-<!-- Banner / Introduction -->
-# 👋 Hi, I'm **Saloni**  
+## 👋 Hi, I'm **Saloni**  
 
 🚀 *“Driven by curiosity, powered by code — I build impactful solutions that bridge technology and innovation.”*
 
 📍 **Delhi, India** 🎓 **M.Tech CSE | [Indraprastha Institute of Information Technology Delhi](https://www.iiitd.ac.in/)**  
 🥇 **B.Tech CSE Gold Medalist | [I.K. Gujral Punjab Technical University](https://ptu.ac.in/)** (CGPA: 9.45)  
-📧 [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com) 🌐 [Portfolio](https://saloninarang.netlify.app/) 🔗 [GitHub](https://github.com/saloninarang27)
+📧 [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com) 
+🌐 [Portfolio](https://saloninarang.netlify.app/) 
+🔗 [GitHub](https://github.com/saloninarang27)
 
 ---
-<div align="center">
-
-"From Gold Medalist to IIIT Delhi researcher – crafting the future of technology through innovative software solutions and cutting-edge research."
-</div>
 
 ## ✨ About Me  
 
