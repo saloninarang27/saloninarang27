@@ -79,17 +79,23 @@ I’m a **passionate developer**, **problem solver**, and **lifelong learner** w
 ## ☕ Support My Journey
 
 <div align="center">
+
 If my work inspires you or adds value, consider buying me a coffee! ☕✨
 
-  
+<br/>
+
 <a href="https://buymeacoffee.com/saloninarang" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
 </a>
-</div>
 
-<div align="center">
-💫 "Code with purpose. Build with passion. Innovate with impact."  
+<br/><br/>
+
+💫 <em>"Code with purpose. Build with passion. Innovate with impact."</em>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=saloninarang27&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
 ---
