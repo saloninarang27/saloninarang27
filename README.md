@@ -1,39 +1,33 @@
+<div align="center">
 
-# 👋 Hi, I'm Saloni!  
-**A Final Year Computer Science Engineering student at IK Gujral Punjab Technical University**
----
-🚀 **"I am a passionate developer who loves turning ideas into scalable and impactful solutions."** 
+🚀 "Engineering scalable solutions and pioneering innovation through code"
+</div>
+<!-- Banner / Introduction -->
+# 👋 Hi, I'm **Saloni**  
 
-📍 **Currently residing at:** Delhi 
+🚀 *“Driven by curiosity, powered by code — I build impactful solutions that bridge technology and innovation.”*
 
-📧 **Connect with me:** saloninarang31@gmail.com  
-
-🌐 **Know more about me:** https://saloninarang.netlify.app/ 
-
-🔗 **My Digital Playground:** [saloninarang27](https://github.com/saloninarang27)  
-
-🚀 **Actively Seeking:** Exciting internship opportunities where I can apply my skills and grow as a developer!
+📍 **Delhi, India** 🎓 **M.Tech CSE | [Indraprastha Institute of Information Technology Delhi](https://www.iiitd.ac.in/)**  
+🥇 **B.Tech CSE Gold Medalist | [I.K. Gujral Punjab Technical University](https://ptu.ac.in/)** (CGPA: 9.45)  
+📧 [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com) 🌐 [Portfolio](https://saloninarang.netlify.app/) 🔗 [GitHub](https://github.com/saloninarang27)
 
 ---
-## ☕ Support
+<div align="center">
 
-If you like my work, you can support me here:
+"From Gold Medalist to IIIT Delhi researcher – crafting the future of technology through innovative software solutions and cutting-edge research."
+</div>
 
-<a href="https://buymeacoffee.com/saloninarang" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-</a>
+## ✨ About Me  
 
----
+I’m a **passionate developer**, **problem solver**, and **lifelong learner** who loves transforming bold ideas into scalable, real-world solutions. My journey in tech is fueled by curiosity, creativity, and an unwavering drive to **build technology that creates impact**.  
 
-## 💡 About Me  
-- 🔭 I’m currently working on **Full-Stack Web Development & Machine Learning**
-- 👯 I’m looking to collaborate on **open-source projects & hackathons** 
-- 🎓 **Pursuing B.Tech in Computer Science** at I.K. Gujral Punjab Technical University (July 2021 - July 2025)
-- 💻 Passionate about **Full-Stack Development, Machine Learning**
-- 💬 Ask me about **React, Java, Python, and Machine Learning**  
-- 🏆 Solved **400+ DSA problems** on LeetCode  
-- 🌱 Currently exploring **Cloud Computing**
-- 🎯 On the lookout for an exciting internship where I can innovate, collaborate, and make an impact with my skills! 
+- 👩‍🎓 Pursuing **M.Tech in Computer Science & Engineering** at IIIT Delhi  
+- 🥇 **Gold Medalist** (B.Tech CSE, PTU) — 9.45 CGPA, Ranked 1st in Department  
+- 💻 Ex-Intern at [ERNET India](https://ernet.in/) (March–July 2025), where I developed a **Blockchain-based Secure Visitor Management System** integrating **OCR**, **Authentication**, and **ML-driven Analytics**  
+- 🧠 Solved **400+ DSA problems** on [LeetCode](https://leetcode.com/) and built multiple **end-to-end web applications**
+- 👑 Crowned **“Miss Talented”** at Freshers’ Event 2022  
+- 🌱 Passionate about **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**  
+- 🚀 Actively seeking **exciting internship & research opportunities** in software development, ML, and cloud innovation.
 
 ---
 
@@ -89,23 +83,30 @@ If you like my work, you can support me here:
 
 ---
 
-## 🎯 **Achievements & Leadership**  
-🏆 **Ranked 1st** in University CSE Department across semesters  
-📖 Solved **400+ DSA problems** on LeetCode  
-👑 Awarded **"Miss Talented"** at Freshers Event in 2022 in my university
+## ☕ Support My Journey
+
+<div align="center">
+If my work inspires you or adds value, consider buying me a coffee! ☕✨
+<a href="https://buymeacoffee.com/saloninarang" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+</a>
+</div>
+
+<div align="center">
+💫 "Code with purpose. Build with passion. Innovate with impact."  
+<img src="https://komarev.com/ghpvc/?username=saloninarang27&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 ---
 
-## 📫 **Let's Connect!**  
-💌 **Email:** [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com)  
+## 🤝 Let’s Connect
 
-💼 **LinkedIn:** https://www.linkedin.com/in/saloni-narang-a77b50217/ 
-
-🌎 **Portfolio:** https://saloninarang.netlify.app/  
-
-💻 **GitHub:** [saloninarang27](https://github.com/saloninarang27)  
+📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/saloni-narang-a77b50217/) | 🌐 [Portfolio](https://saloninarang.netlify.app/) | 💻 [GitHub](https://github.com/saloninarang27)
 
 ---
 
-🔥 **Fact About Me:** _I love exploring new tech stacks and building projects that solve real-world problems!_  
-🔥 **"Passionate about building scalable applications and solving real-world problems with technology!"**  
+🔥 *“I believe technology is a canvas, and code is the paint that brings imagination to life.”*  
+✨ Always ready to **learn**, **build**, and **create impact**.
+💫 "Code with purpose. Build with passion. Innovate with impact."
+
+
