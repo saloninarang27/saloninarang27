@@ -4,9 +4,6 @@
 
 📍 **Delhi, India** 🎓 **M.Tech CSE | [Indraprastha Institute of Information Technology Delhi](https://www.iiitd.ac.in/)**  
 🥇 **B.Tech CSE Gold Medalist | [I.K. Gujral Punjab Technical University](https://ptu.ac.in/)** (CGPA: 9.45)  
-📧 [saloninarang31@gmail.com](mailto:saloninarang31@gmail.com) 
-🌐 [Portfolio](https://saloninarang.netlify.app/) 
-🔗 [GitHub](https://github.com/saloninarang27)
 
 ---
 
