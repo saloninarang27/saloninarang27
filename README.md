@@ -2,8 +2,8 @@
 
 🚀 *“Driven by curiosity, powered by code — I build impactful solutions that bridge technology and innovation.”*
 
-📍 **Delhi, India** 🎓 **M.Tech CSE | [Indraprastha Institute of Information Technology Delhi](https://www.iiitd.ac.in/)**  
-🥇 **B.Tech CSE Gold Medalist | [I.K. Gujral Punjab Technical University](https://ptu.ac.in/)** (CGPA: 9.45)  
+📍 **Delhi, India** 🎓 **M.Tech CSE | [Indraprastha Institute of Information Technology Delhi](https://www.iiitd.ac.in/) | (August 2025 - July 2027)**  
+🥇 **B.Tech CSE Gold Medalist | [I.K. Gujral Punjab Technical University](https://ptu.ac.in/) | (August 2021 - July 2025) (CGPA: 9.45)**  
 
 ---
 
