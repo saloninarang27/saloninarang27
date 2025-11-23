@@ -14,7 +14,7 @@ I’m a **passionate developer**, **problem solver**, and **lifelong learner** w
 - 👩‍🎓 Pursuing **M.Tech in Computer Science & Engineering** at IIIT Delhi  
 - 🥇 **Gold Medalist** (B.Tech CSE, PTU) — 9.45 CGPA, Ranked 1st in Department  
 - 💻 Ex-Intern at [ERNET India](https://ernet.in/) (March–July 2025), where I developed a **Blockchain-based Secure Visitor Management System** integrating **OCR**, **Authentication**, and **ML-driven Analytics**  
-- 🧠 Solved **400+ DSA problems** on [LeetCode](https://leetcode.com/) and built multiple **end-to-end web applications**
+- 🧠 Solved **200+ DSA problems** on [LeetCode](https://leetcode.com/) and built multiple **end-to-end web applications**
 - 👑 Crowned **“Miss Talented”** at Freshers’ Event 2022  
 - 🌱 Passionate about **Full-Stack Development**, **Machine Learning**, and **Cloud Computing**  
 - 🚀 Actively seeking **exciting internship & research opportunities** in software development, ML, and cloud innovation.
