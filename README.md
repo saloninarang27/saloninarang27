@@ -65,11 +65,17 @@ I’m a **passionate developer**, **problem solver**, and **lifelong learner** w
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloninarang27&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloninarang27&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saloninarang27&theme=default)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=flat)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saloninarang27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloninarang27&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=saloninarang27&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy" />
+</p>
 
 ---
 
