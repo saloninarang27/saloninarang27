@@ -76,6 +76,7 @@ I’m a **passionate developer**, **problem solver**, and **lifelong learner** w
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=saloninarang27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy" />
 </p>
+
 ---
 
 ## ☕ Support My Journey
