@@ -105,7 +105,7 @@ If my work inspires you or adds value, consider buying me a coffee! ☕✨
 
 ## 🤝 Let’s Connect
 
-📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/saloninarang27/) | 💻 [GitHub](https://github.com/saloninarang27)
+📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/saloninarang27/) | 💻 [GitHub](https://github.com/saloninarang27) | 💬 [WhatsApp](https://wa.link/s1iqnb)
 
 ---
 
