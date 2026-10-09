@@ -105,8 +105,7 @@ If my work inspires you or adds value, consider buying me a coffee! ☕✨
 
 ## 🤝 Let’s Connect
 
-📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/saloninarang27/) | 💻 [GitHub](https://github.com/saloninarang27) | 💬 [WhatsApp](https://wa.link/s1iqnb)
-
+🌐 [Website](https://netlify.app) | 📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com) | 💬 [WhatsApp](https://wa.link)
 ---
 
 🔥 *“I believe technology is a canvas, and code is the paint that brings imagination to life.”*  
