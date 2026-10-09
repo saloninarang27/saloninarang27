@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Saloni**  
+ ## 👋 Hi, I'm **Saloni**  
 
 🚀 *“Driven by curiosity, powered by code — I build impactful solutions that bridge technology and innovation.”*
 
@@ -105,7 +105,7 @@ If my work inspires you or adds value, consider buying me a coffee! ☕✨
 
 ## 🤝 Let’s Connect
 
-🌐 [Website](https://saloninarang.netlify.app/) | 📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com) | 💬 [WhatsApp](https://wa.link)
+🌐 [Website](https://saloninarang.netlify.app/)  | 📧 [Email](mailto:saloninarang31@gmail.com) | 💼 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com) | 💬 [WhatsApp](https://wa.link)
 ---
 
 🔥 *“I believe technology is a canvas, and code is the paint that brings imagination to life.”*  
